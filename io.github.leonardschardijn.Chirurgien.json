@@ -24,6 +24,7 @@
     "modules" : [
         {
             "name" : "amtk",
+            "buildsystem" : "meson",
             "sources" : [
                 {
                     "type" : "archive",
